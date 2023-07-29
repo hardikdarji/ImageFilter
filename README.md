@@ -14,6 +14,7 @@ ImageFilter is App in iOS Swift with MVVM which is having functionality of Image
 # MVVM Architecture
 
 Here is exersice conducted here:
+
 **1. User Interface:**
    - Design a simple and intuitive interface that includes an image view to display the selected image and sliders to control the filter parameters.
    - Implement sliders for Gaussian blur, box blur, brightness adjustment, contrast adjustment, and saturation adjustment.
