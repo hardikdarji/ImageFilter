@@ -1,19 +1,19 @@
 # ImageFilter
+
 ImageFilter is App in iOS Swift with MVVM which is having functionality of Image Filters using CoreImage Apple APIs
-<img src="https://github.com/hardikdarji/ImageFilter/blob/main/demo1.png" alt="Demo: Apply filter from options">
-<img src="https://github.com/hardikdarji/ImageFilter/blob/main/demo2.png" alt="Demo: GaussianBlur filter Applied">
+<img src="https://github.com/hardikdarji/ImageFilter/blob/main/demo1_small.png" alt="Demo: Apply filter from options">
+<img src="https://github.com/hardikdarji/ImageFilter/blob/main/demo2_small.png" alt="Demo: GaussianBlur filter Applied">
 
 # Filters
-**GaussianBlur
-BoxBlur
-Brightness
-Saturation
-Contrast
-**
+- GaussianBlur
+- BoxBlur
+- Brightness
+- Saturation
+= Contrast
 
 # MVVM Architecture
-Here is exersice conducted here:
 
+Here is exersice conducted here:
 **1. User Interface:**
    - Design a simple and intuitive interface that includes an image view to display the selected image and sliders to control the filter parameters.
    - Implement sliders for Gaussian blur, box blur, brightness adjustment, contrast adjustment, and saturation adjustment.
