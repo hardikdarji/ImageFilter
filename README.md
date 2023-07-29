@@ -9,7 +9,7 @@ ImageFilter is App in iOS Swift with MVVM which is having functionality of Image
 - BoxBlur
 - Brightness
 - Saturation
-= Contrast
+- Contrast
 
 # MVVM Architecture
 
